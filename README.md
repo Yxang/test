@@ -9,9 +9,9 @@ This is only a test.
 
 ### Third
 
-` 1
+- 1
 
-` 2
+- 2
 
 ```
 Code
